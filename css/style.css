@@ -697,6 +697,7 @@ p {
   top: 30px;
   left: 100px;
   padding: 15px 5px;
+  font-style: italic;
 }
 
 .home-page .home-box p {
@@ -1307,120 +1308,6 @@ div .memoirs header{
 
 #ascensorBuilding {
   width: 50% !important;
-}
-
-/*------------------------ 8 Blog Page ------------------------*/
-
-.post img {
-  width: 100%;
-}
-
-.post h2 {
-  margin-top: 15px;
-  line-height: 25px;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.post span {
-  margin: 7px 0 5px;
-  font-size: 12px;
-  display: block;
-}
-
-.post a {
-  color: #000000;
-}
-
-.post a.link {
-  display: block;
-  margin-top: 10px;
-}
-
-.single-post .blog-title {
-  font-size: 30px;
-  font-weight: bold;
-  color: #000;
-  line-height: 36px;
-}
-
-.single-post .post-image img {
-  width: 100%;
-}
-
-.single-post .post-info {
-  color: #bfbfbf;
-  font-size: 13px;
-  display: block;
-}
-
-.single-post blockquote {
-  padding: 28px;
-  font-weight: bold;
-  font-size: 18px;
-  line-height: 30px;
-}
-
-.single-post ul.list-style {
-  padding: 30px;
-  line-height: 24px;
-}
-
-.single-post ul.list-style li {
-  font-weight: bold;
-  font-size: 14px;
-  list-style: circle;
-}
-
-.post-comment {
-  float: left;
-}
-
-ul.post-comment li {
-  width: 100%;
-  float: left;
-  border-bottom: 1px solid #efefef;
-  padding: 15px 0;
-}
-
-ul.post-comment li.reply {
-  padding-left: 30px;
-}
-
-ul.post-comment li img {
-  width: 15%;
-  float: left;
-}
-
-ul.post-comment li .comment-info {
-  float: left;
-  width: 85%;
-  padding-left: 15px;
-}
-
-ul.post-comment li h3 {
-  float: left;
-  font-size: 14px;
-}
-
-ul.post-comment li a {
-  float: right;
-  font-size: 11px;
-  font-weight: bold;
-}
-
-ul.post-comment li p {
-  font-size: 13px;
-  line-height: 20px;
-  float: left;
-}
-
-ul.post-comment li span {
-  float: left;
-  width: 100%;
-  font-size: 11px;
-  color: #c5c5c5;
-  margin-top: 3px;
 }
 
 /*------------------------ 9 Work Single Page ------------------------*/
