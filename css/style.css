@@ -747,6 +747,10 @@ p {
   position: absolute;
 }
 
+.italic{
+  font-style: italic
+}
+
 /*------------------------ 3 About Me ------------------------*/
 
 .list {
