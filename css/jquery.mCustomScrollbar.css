@@ -41,7 +41,11 @@ CONTENTS:
 		width: auto;
 		height: auto;
 	}
-
+	@media screen and (max-width: 768px){
+		.mCustomScrollbar{
+			height: 600px;
+		  }
+	}
 
 
 /* 
