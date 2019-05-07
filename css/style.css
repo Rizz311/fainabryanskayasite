@@ -1410,6 +1410,9 @@ div .memoirs header{
     padding: 60px 80px;
     height: 100%;
   }
+  .links-to-floor li a{
+    font-size: 90%;
+  }
 }
 
 /*min Width 1440px */
