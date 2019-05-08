@@ -1411,7 +1411,7 @@ div .memoirs header{
     height: 100%;
   }
   .links-to-floor li a{
-    font-size: 90%;
+    font-size: 15px;
   }
 }
 
@@ -1468,7 +1468,7 @@ div .memoirs header{
     border-right: solid 1px #e6e6e6;
   }
   .links-to-floor li a {
-    font-size: 11px;
+    font-size: 18px;
   }
   .links-to-floor li {
     margin-right: 14px;
@@ -1493,6 +1493,7 @@ div .memoirs header{
     top: 25px;
     left: 30px;
   }
+  
 }
 
 /*max Width 500px */
