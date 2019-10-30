@@ -125,7 +125,7 @@ html {
 }
 
 .floor {
-  padding-bottom: 50px;
+  padding-bottom: 150px;
 }
 
 .floor .text {
@@ -139,6 +139,11 @@ html {
   -moz-transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
+}
+
+.bottom {
+  position: relative;
+  bottom: 120px;
 }
 
 .floor-2 {
